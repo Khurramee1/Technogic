@@ -1,2 +1,1 @@
-# Technogic
-# REPO3
+# azure-yamal-practice
